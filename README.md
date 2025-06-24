@@ -19,7 +19,8 @@ A responsive React app that displays real-time weather information for any city 
 
 ## 📸 Screenshot
 
-![Weather Watch Dashboard](screenshot.png)
+![Weather Watch Dashboard](![Screenshot 2025-06-24 200835](https://github.com/user-attachments/assets/492bc041-b11d-4a71-adac-8e3f4ec2dcce)
+)
 
 ## 📦 Installation
 
