@@ -11,7 +11,7 @@ const App = () => {
 
     // Replace 'YOUR_API_KEY' with your actual OpenWeatherMap API key.
     // Get it from: https://openweathermap.org/api
-    const API_KEY = '65d371d27821bbd88d0b6d276afaab03'; // <<< IMPORTANT: Replace this with your actual API Key!
+    const API_KEY = 'YOUR_API_KEY'; // <<< IMPORTANT: Replace this with your actual API Key!
 
     // Function to fetch weather data from OpenWeatherMap API
     const fetchWeatherData = async () => {
